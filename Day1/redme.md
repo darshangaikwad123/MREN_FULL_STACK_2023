@@ -8,4 +8,5 @@ git session
 git reop
 1.git remote add
 2.git push
-3.git
+3.git clone 
+4.git checkout -b 

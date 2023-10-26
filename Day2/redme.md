@@ -19,7 +19,15 @@ attribute=>
 
 type of elements
 1.inline -span
-2.block :- div
+2.block :- div,p,Heading
 
 comment in html
+
 <!-- <fieldset></fieldset> -->
+
+&nbsp; => non blocking space
+
+heading tag <h1> to <h6> lower number higher precedence
+
+
+http/https => hyper text transfer protocol used to transfer the data/block
